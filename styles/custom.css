@@ -27,7 +27,7 @@
         margin-right:auto;
     }
     .CodeMirror{
-            font-family: "Source Code Pro", source-code-pro,Consolas, monospace;
+            font-family: "Source Code Pro", "Ubuntu Mono", source-code-pro,Consolas, monospace;
     }
 /*    .prompt{
         display: None;
