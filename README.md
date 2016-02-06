@@ -12,6 +12,7 @@ A place for my IPython Notebooks
 
 * [Predicting house prices](http://nbviewer.jupyter.org/github/pestrickland/notebooks/blob/master/Predicting%20house%20prices.ipynb)
 * [Analysing product sentiment](http://nbviewer.jupyter.org/github/pestrickland/notebooks/blob/master/Analyzing%20product%20sentiment.ipynb) 
+* [Document retrieval](http://nbviewer.jupyter.org/github/pestrickland/notebooks/blob/master/document-retrieval.ipynb)
 
 Other notebooks of interest
 ---------------------------
